@@ -40,7 +40,7 @@ or
 
 ![1pic](./READMEpics/intialURLtest.png)
 
-If youre able to getting everything working thus far, you are now ready to finally download "Easy-Weather-App"
+If youre able to getting everything working thus far, you are now ready to finally download "Easy-Weather-OBS"
 
 
 === Test Weather App ===
