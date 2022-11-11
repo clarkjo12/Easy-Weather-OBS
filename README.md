@@ -30,7 +30,7 @@ To Change between F, C - Replace the last word with either:
 
 === Test Weather App ===
 
-Download the ZIP for this app; towards the top right of GitHub.
+Download the ZIP for this app; click the Green button "<>Code" -> "Download Zip"
 
 Once you have your URL working; open "weather.js" in your code editor- then add your working weather URL to the code, pictured below - then Save <br>
 
