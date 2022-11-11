@@ -20,7 +20,7 @@ Replace "rome,ny,us" with your City, State, and Country
 *note the commas between each variable
 
 If youre not somthing easy like us, or uk... go here- 
-and find your "Alpha-2 Code" : https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
+and find your country's "Alpha-2 Code" : https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
 
 Then replace the "fake" API key, with the one that you personally generated on Open Weather.
 If it doesnt work; remember you will probaly have to wait a few hours until it activates...the "fake" API keys below are "2g7d5k7dk5g72k52lfjglj123" & "k54glh7f34fjl15h3j3hf5f13hl7" respectively 
@@ -33,8 +33,10 @@ https://api.openweathermap.org/data/2.5/weather?zip=13316,us&appid=k54glh7f34fjl
 
 
 To Change between F, C - Replace the last word with either:
-"imperial" = F
-"metric" = C
+
+"imperial" = F <br>
+or
+<br> "metric" = C
 
 ![1pic](./READMEpics/intialURLtest.png)
 
