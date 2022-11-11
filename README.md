@@ -34,8 +34,7 @@ https://api.openweathermap.org/data/2.5/weather?zip=13316,us&appid=k54glh7f34fjl
 
 To Change between F, C - Replace the last word with either:
 
-"imperial" = F <br>
-or
+"imperial" = F, or
 <br> "metric" = C
 
 ![1pic](./READMEpics/intialURLtest.png)
