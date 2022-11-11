@@ -30,12 +30,12 @@ $(document).ready(function(){
 // EDITABLE TIMER!! // RIGHT HERE! //  60000 = 1 minute //
 // for 3 mins type: 3*60000, for 17 mins, type: 17*60000 //
 // BE VERY VERY VERY CAREFUL!!!!!!!!! - never put less then 2*60000 // 
-//Open Weather WILL START CHARING YOU $$$ //
+//otherwise, Open Weather WILL START CHARING YOU $$$ ////////////////
 
-        }, 2*60000);
-       
+        }, 3*60000);
         
-        
+// BE VERY VERY VERY CAREFUL!!!!!!!!! - never put less then 2*60000 // 
+//otherwise, Open Weather WILL START CHARING YOU $$$ ////////////////
     })
     
     function show(data){
@@ -43,7 +43,5 @@ $(document).ready(function(){
         var iconurl = "http://openweathermap.org/img/w/" + iconcode + ".png";
     
         return "<img   id=wicon src="+iconurl +">"+"<h3> "+ Math.round(data.main.temp) +"°F" +"</h3>"
-        // + "<h3>Current Weather: "+ data.weather[0].main +"</h3>"
-        // + "<h3>Current Weather: "+ data.weather[0].description +"</h3>"
         ;}
     
