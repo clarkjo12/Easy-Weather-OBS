@@ -1,0 +1,46 @@
+html {
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+}
+
+ h3 {
+    color: rgb(55, 55, 55);
+    font-weight: 600;
+    line-height: 1.3;
+    margin-bottom: 0px;
+    margin-left: 7px;
+    margin-top: -14px;
+}
+
+div{background: rgb(212, 212, 255);
+    border: 3px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    display: block;
+    width: 53px;
+    height: 68px;
+}
+
+img {
+    background: rgb(212, 212, 255);
+   /* border: 1px red solid; */
+    margin-bottom: -7px;
+    }
+
+@keyframes colorize {
+    0% {
+        -webkit-filter: grayscale(100%);
+        filter: grayscale(100%);
+    }
+    100% {
+        -webkit-filter: grayscale(0%);
+        filter: grayscale(0%);
+    }
+}
