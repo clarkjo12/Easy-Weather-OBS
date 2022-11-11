@@ -4,6 +4,7 @@ An HTML Overlay, that displays the Current Temperature and Conditions for a City
 *Disclaimer, I'm not responsible if you get charged by "Open Weather" for using their API - they could change price plan, or you editted code incorrectly, etc. user descretion adivsed*
 
 Navigate to OpenWeather, and generate an API key, it will take a few hours to activate within Open Weather's system.. fyi
+
 Go here: https://home.openweathermap.org/api_keys
 Create and account, etc; with the free version, you get 1400 calls per day. I personally have mine set to 3 minutes, so its only 480 calls per day
 
