@@ -30,11 +30,17 @@ To Change between F, C - Replace the last word with either:
 
 === Test Weather App ===
 
-Once you have your URL working; add to the code, pictured below - then Save <br>
+Download the ZIP for this app; towards the top right of GitHub.
 
-if you want to lENGTHEN the timer; you can do so, but do not go less then "3*60000"! - then Save <br>
+Once you have your URL working; open "weather.js" in your code editor- then add your working weather URL to the code, pictured below - then Save <br>
+
+if you want to LENGTHEN the timer; you can do so, but do not go LESS THAN "3*60000"! - then Save <br>
 
 Now, in the the folder, "Easy-Weather-OBS" double click the "main.html" file - it should open your browers, displaying the picture below. <br>
 
 Wait 3 minutes, and the App should be begin working...if you open your browser's Dev Tools, view the Console; and you should see these calls coming in every 3 minutes.
+
+
+
+-Poggers in the chat. 
 
