@@ -6,6 +6,8 @@ Navigate to OpenWeather, and generate an API key, it will take a few hours to ac
 Go here: https://home.openweathermap.org/api_keys
 Create and account, etc; with the free version, you get 1400 calls per day. I personally have mine set to 3 minutes, so its only 480 calls per day
 
+!-NEVER SHARE YOUR API KEY-!
+
 
 === Testing your API key ===
 
@@ -26,6 +28,8 @@ https://api.openweathermap.org/data/2.5/weather?zip=13316,us&appid=k54glh7f34fjl
 To Change between F, C - Replace the last word with either:
 "imperial" = F
 "metric" = C
+
+![1pic](READMEpics\intialURLtest.png?raw=true "Test")
 
 
 === Test Weather App ===
