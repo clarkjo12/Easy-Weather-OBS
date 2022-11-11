@@ -1,6 +1,6 @@
 # Easy-Weather-OBS
-An HTML Overlay, that displays the Current Temperature and Conditions for a City of your choice; and will automatically refresh, as often as you'd like. 
-*minimal assemebly required; you will need a "coding text editor" - brackets, sublime; or my favorite- "Visual Studio Code"
+An HTML Overlay, that displays the Current Temperature and Conditions for a City of your choice; and will automatically refresh, as often as you'd like. <br>
+*minimal assemebly required; you will need a "coding text editor" - Visual Studio Code, Brackets, etc.
 
 *Disclaimer, I'm not responsible if you get charged by "Open Weather" for using their API - they could change price plan, or you editted code incorrectly, etc. user descretion adivsed*
 
