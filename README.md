@@ -32,12 +32,14 @@ To Change between F, C - Replace the last word with either:
 
 ![1pic](./READMEpics/intialURLtest.png)
 
+If youre able to getting everything working thus far, you are now ready to finally download "Easy-Weather-App"
+
 
 === Test Weather App ===
 
-Download the ZIP for this app; click the Green button "<>Code" -> "Download Zip"
+To Download the ZIP for this app; click the Green button "<>Code" -> "Download Zip"
 
-Once you have your URL working; open "weather.js" in your code editor- then add your working weather URL to the code, pictured below - then Save <br>
+After you have your URL working; open "weather.js" in your code editor- then add your working weather URL to the code, pictured below - then Save <br>
 
 ![2pic](./READMEpics/changeURL.png)
 
@@ -46,7 +48,7 @@ if you want to LENGTHEN the timer; you can do so, but do not go LESS THAN "3*600
 
 Now, in the the folder, "Easy-Weather-OBS" double click the "main.html" file - it should open your browers, displaying the picture below. <br>
 
-Wait 3 minutes, and the App should be begin working...if you open your browser's Dev Tools, view the Console; and you should see these calls coming in every 3 minutes.
+Wait 3 minutes, and the App should begin working...if you open your browser's Dev Tools, view the Console; and you should see these calls coming in every 3 minutes.
 
 ![3pic](./READMEpics/initialResult.png)
 
