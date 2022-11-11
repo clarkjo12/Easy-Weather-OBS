@@ -29,7 +29,7 @@ To Change between F, C - Replace the last word with either:
 "imperial" = F
 "metric" = C
 
-![1pic](READMEpics\intialURLtest.png?raw=true "Test")
+![1pic](./READMEpics/intialURLtest.png)
 
 
 === Test Weather App ===
