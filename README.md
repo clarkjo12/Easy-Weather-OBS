@@ -1,6 +1,7 @@
 # Easy-Weather-OBS
 An HTML Overlay, that displays the Current Temperature and Conditions for a City of your choice; and will automatically refresh, as often as you'd like.
 
+*Disclaimer, I'm not responsible if you get charged by "Open Weather" for using their API - they could change price plan, or you editted code incorrectly, etc. user descretion adivsed*
 
 Navigate to OpenWeather, and generate an API key, it will take a few hours to activate within Open Weather's system.. fyi
 Go here: https://home.openweathermap.org/api_keys
@@ -44,7 +45,16 @@ Now, in the the folder, "Easy-Weather-OBS" double click the "main.html" file - i
 
 Wait 3 minutes, and the App should be begin working...if you open your browser's Dev Tools, view the Console; and you should see these calls coming in every 3 minutes.
 
+![2pic](./READMEpics/initialResult.png)
 
+=== Add to OBS ===
+
+Open OBS, add a source, click "Browser" - name it whatever you'd like, next
+Click that its a "local File" and browse to your new app, and click on the "main.html"
+Place whereever you'd like.
 
 -Poggers in the chat. 
+
+![3pic](./READMEpics/finalResult.png)
+
 
