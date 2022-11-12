@@ -11,7 +11,8 @@ Go here: https://home.openweathermap.org/api_keys
 Create and account, etc; with the free version, you get 1400 calls per day. I personally have mine set to 3 minutes, so its only 480 calls per day
 
 !-NEVER SHARE YOUR API KEY-! - its a super secret!
-
+<br>
+Before you download; lets first get a City's current conditions,
 
 === Testing your API key ===
 
