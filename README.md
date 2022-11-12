@@ -44,6 +44,11 @@ To Change between F, C - Replace the last word with either:
 
 If youre able to getting everything working thus far, you are now ready to finally download "Easy-Weather-OBS"
 
+If decide to use Metric, you will have 1 additional, small task<br>
+Simply change the "F" to a "C",
+
+![3pic](./READMEpics/f2c.png)
+
 
 === Test Weather App ===
 
