@@ -44,11 +44,6 @@ To Change between F, C - Replace the last word with either:
 
 If youre able to getting everything working thus far, you are now ready to finally download "Easy-Weather-OBS"
 
-If decide to use Metric, you will have 1 additional, small task<br>
-Simply change the "F" to a "C",
-
-![3pic](./READMEpics/f2c.png)
-
 
 === Test Weather App ===
 
@@ -59,6 +54,11 @@ After you have your URL working; open "weather.js" in your code editor- then add
 
 
 ![2pic](./READMEpics/changeURL.png)
+
+If decide to use Metric, you will have 1 additional, small task<br>
+Simply change the "F" to a "C",
+
+![3pic](./READMEpics/f2c.png)
 
 
 if you want to LENGTHEN the timer; you can do so, but do not go LESS THAN "3*60000"! - then Save <br>
