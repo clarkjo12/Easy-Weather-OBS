@@ -46,7 +46,7 @@ If youre able to getting everything working thus far, you are now ready to final
 
 === Test Weather App ===
 
-To Download the ZIP for this app; click the Green button "<>Code" -> "Download Zip"
+To Download the ZIP for this app; click the Green button "<>Code" -> "Download Zip" -> unzip/extract the App.
 
 After you have your URL working; open "weather.js" in your code editor- then add your working weather URL to the code, pictured below - then Save <br>
 
@@ -57,7 +57,7 @@ After you have your URL working; open "weather.js" in your code editor- then add
 
 if you want to LENGTHEN the timer; you can do so, but do not go LESS THAN "3*60000"! - then Save <br>
 
-*Edit "styles.css" until it looks good to you. - then "Save All"
+*Edit "styles.css" until it looks good to you. - then "Save All" 
 *Edit "styles.css" until it looks good to you. - then "Save All"
 
 Now, in the the folder, "Easy-Weather-OBS" double click the "main.html" file - it should open your browers, displaying the picture below. <br>
